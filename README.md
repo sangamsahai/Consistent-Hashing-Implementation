@@ -10,10 +10,15 @@ Below are some points to note -
 Same hash function is used to hash the server name(node name) as well as the key which is being stored.
 The class DataNode mimics a real node which will save the key value data.
 
-To understand these tests, the below mapping of Strings and their hash value will help. "cloudJunky" - 14 
+To understand these tests, the below mapping of Strings and their hash value will help. 
+"cloudJunky" - 14 
+
 "codeCreature" - 38 
+
 "dataMonster" - 4 
+
 "sangam" - 31 
+
 "xangam" - 36
 
 
